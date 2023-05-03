@@ -1,6 +1,7 @@
 
 SEA ICE CLIMATOLOGY AND TREND
 ============
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6778219.svg)](https://doi.org/10.5281/zenodo.6778219)
 
 Figure number: Figure 3.20
 From the IPCC Working Group I Contribution to the Sixth Assessment Report: Chapter 3
